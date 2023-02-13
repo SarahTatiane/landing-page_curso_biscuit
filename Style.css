@@ -1,0 +1,34 @@
+h1{
+  font-family: 'Inter', sans-serif;
+}
+h2{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+ }
+ body {
+   text-align: center;
+ }
+ #hero {
+   width: 592px;
+   margin: auto;
+ }
+ #hero img {
+   margin-bottom: 72px ;
+ }
+ h1{
+   color: #ac0dd2
+   }
+   h2{
+     color:#f93bff
+   }
+   h3{
+     color:#d40bd9
+   }
+   h4{
+     color: #b262cc
+   }
+   p{
+     color: #5f0469
+   }
